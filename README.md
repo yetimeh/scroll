@@ -1,16 +1,13 @@
 # scroll
 
-A new Flutter project.
+My first ever flutter project.
 
-## Getting Started
+## Disclaimer
 
-This project is a starting point for a Flutter application.
+This project is what I used to learn all about flutter. Please keep in mind that the source can be really ugly, and so much in efficiency inside. 
 
-A few resources to get you started if this is your first Flutter project:
+This would go in a refactor soon!
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## What is it about?
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+A simple app that works like TikTok, except all the videos are from your gallery. The app randomly generates a TikTok-like scrollable interface from the videos in your gallery.
